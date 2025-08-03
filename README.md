@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## APP UI
+<img width="1913" height="919" alt="image" src="https://github.com/user-attachments/assets/bcb36455-76b4-4c4e-8ceb-c9682176df07" />
+
+### Mobile Testing.
+<img width="584" height="871" alt="image" src="https://github.com/user-attachments/assets/60013f76-9d3b-4b14-8d55-c35bd5b5cfe8" />
+
+<img width="621" height="882" alt="image" src="https://github.com/user-attachments/assets/1b9258e8-dd85-4213-a14f-cf5725f6cf30" />
+<img width="1914" height="917" alt="image" src="https://github.com/user-attachments/assets/7e05123e-5c9b-4a0c-87f8-cd5159a61641" />
+
 ## Getting Started
 
 First, run the development server:
